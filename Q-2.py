@@ -13,3 +13,5 @@ def to_upper_case(s):
 s = "My name is Xyz"
 print(to_upper_case(s))        
      
+#OUTPUT:
+# MY NAME IS XYZ
