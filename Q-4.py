@@ -16,4 +16,7 @@ elif str2 in str1 :
 else:
     print("There is no string which is present in another !")
 
-    
+#OUTPUT:
+# Enter 1st string: Ved is studying in EE-DIV3
+# Enter 2nd string: studying 
+# Ved is  in EE-DIV3    
